@@ -34,5 +34,10 @@
     <Button
         android:id="@+id/search_btn"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:text="@string/main_btn"
+        android:layout_below= "@+id/user_field"
+        android:layout_marginHorizontal="100sp"
+        android:layout_marginTop="30sp"
+        />
 </RelativeLayout>
