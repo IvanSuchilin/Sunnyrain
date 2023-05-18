@@ -3,4 +3,6 @@
     <string name="logo">Weather in your city</string>
     <string name="hint_user_field">Enter your city name</string>
     <string name="main_btn">What the weather</string>
+    <string name="emptyUserInput">Enter your city name</string>
+
 </resources>

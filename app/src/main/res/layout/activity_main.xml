@@ -29,6 +29,7 @@
         android:ems="10"
         android:hint="@string/hint_user_field"
         android:inputType="text"
+        android:minHeight="48dp"
         android:textColorHint="@color/textColorHint" />
 
     <Button
@@ -40,4 +41,15 @@
         android:layout_marginHorizontal="100sp"
         android:layout_marginTop="30sp"
         />
+
+    <TextView
+        android:id="@+id/result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/search_btn"
+        android:layout_marginHorizontal="30sp"
+        android:layout_marginTop="30sp"
+        android:textColor="@color/design_default_color_primary"
+        android:textSize="25sp"
+        android:textAlignment="center" />
 </RelativeLayout>
