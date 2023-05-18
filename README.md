@@ -6,7 +6,7 @@ ___
 ___
 
  ## Стек
-<img src="https://img.shields.io/badge/Java-C71A36?style=for-the-badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/> src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img 
+<img src="https://img.shields.io/badge/Java-C71A36?style=for-the-badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> 
 
 ### Функционал
 
